@@ -6,7 +6,7 @@ Juypter ux case study crafted using prompt engineer  - warning experiment
 
 Automatically generate UX case studies from Figma files with 1-click!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/ux-case-generator/blob/main/UX_Case_Generator.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ammer-A/Py-uxcase-gen/blob/main/UX_Case_Generator.ipynb)
 
 ## Features ✨
 - Auto-creates Google Slides & Sheets
@@ -31,5 +31,5 @@ Automatically generate UX case studies from Figma files with 1-click!
 
 ## Support 🛠️
 For issues/questions:
-- Email: support@uxgen.com
-- Discord: [Join our server](https://discord.gg/uxgen)
+- Email: amkadir080@gmail.com
+
